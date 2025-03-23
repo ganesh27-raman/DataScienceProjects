@@ -40,36 +40,28 @@ Scaled numerical data using StandardScaler
 
 Performance Metrics
 
-Model
-
-RMSE
-
-MAE
-
-R² Score
-
 Linear Regression
 
-0.1237
+RMSE: 0.1237
 
-0.0942
+MAE: 0.0942
 
-0.9848
+R² Score: 0.9848
 
 Random Forest
 
-0.0425
+RMSE: 0.0425
 
-0.0287
+MAE: 0.0287
 
-0.9982
+R² Score: 0.9982
 
 Gradient Boosting
 
-0.0440
+RMSE: 0.0440
 
-0.0306
+MAE: 0.0306
 
-0.9981
+R² Score: 0.9981
 
 Random Forest was selected as the final model due to superior performance.
